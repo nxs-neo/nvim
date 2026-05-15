@@ -7,3 +7,6 @@ foo.*
 *.log
 data
 /lazy-lock.json
+/colors/dms.lua
+/lua/lualine/themes/dms.lua
+/lua/plugins/dankcolors.lua
