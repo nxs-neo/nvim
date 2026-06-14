@@ -5,6 +5,7 @@ return {
       opts.keymap = {
         preset = "super-tab",
       }
+      opts.fuzzy = { implementation = "prefer_rust_with_warning" }
     end,
   },
 }
